@@ -1,0 +1,16 @@
+{
+    "getting-started": "Getting Started",
+
+    "Building an interface": {
+        "editor-ui": "Using the Editor"
+    },
+
+    "Examples": {
+        "examples": "Basic Examples"
+    },
+
+    "Miscellaneous": {
+        "wording": "Wording",
+        "license": "License"
+    }
+}
