@@ -13,7 +13,7 @@ These should be pretty simple to follow, so take a look:
 
 ## You may not
 
-- Modify UniUI Kube in your pack
+- Modify UniUI Kube in your pack (unless you explicitly state that you did so + link to UniUI)
 - Get "inspired" by UniUI Kube to create your own similar thingy (uwu)
 - Redistribute or sell UniUI
 - Bundle anything but UniUI Kube alongside your pack (no CLI, no Editor, no Docs, no Website, no!)
